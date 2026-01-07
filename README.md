@@ -9,7 +9,7 @@ Generates a Software Bill of Materials (SBOM) in CycloneDX format (JSON) for Gen
 
 `cyclonedx-gentoo` is a command-line tool that scans your installed Gentoo packages and produces a CycloneDX SBOM. It uses the `eix` database for fast access to package information.
 
-The output is a CycloneDX v1.5 JSON document sent to `stdout`.
+The output is a [CycloneDX](https://cyclonedx.org/) v1.5 JSON document sent to `stdout`.
 
 ## Prerequisites
 
