@@ -2,7 +2,12 @@
 name = "cyclonedx-gentoo"
 version = "0.1.0"
 edition = "2024"
-
+description = "Generates SBOM on stdout in CycloneDX format for Gentoo-Linux Portage Packet database"
+license = "Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/Komplix/cyclonedx-gentoo-linux.git"
+keywords = ["gentoo", "portage", "eix", "parser", "cyclonedx"]
+categories = ["parsing", "os::linux-apis"]
 [dependencies]
 eix = "0.2"
 chrono = { version = "0.4.42", features = ["serde"] }
