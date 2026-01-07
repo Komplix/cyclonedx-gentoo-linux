@@ -1,4 +1,7 @@
 # cyclonedx-gentoo
+[<img alt="github" src="https://img.shields.io/badge/github-Komplix%2Fcyclonedx--gentoo--linux-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/Komplix/cyclonedx-gentoo-linux)
+[![Build](https://github.com/Komplix/cyclonedx-gentoo-linux/actions/workflows/build.yml/badge.svg)](https://github.com/Komplix/cyclonedx-gentoo-linux/actions/workflows/build.yml)
+![maintenance-status](https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg)
 
 Generates a Software Bill of Materials (SBOM) in CycloneDX format (JSON) for Gentoo Linux by parsing the Portage package database via `eix`.
 
