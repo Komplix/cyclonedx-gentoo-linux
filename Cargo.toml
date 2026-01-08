@@ -1,6 +1,6 @@
 [package]
 name = "cyclonedx-gentoo"
-version = "0.2.0"
+version = "0.3.0"
 edition = "2024"
 description = "Generates SBOM on stdout in CycloneDX format for Gentoo-Linux Portage Packet database"
 license = "Apache-2.0"
