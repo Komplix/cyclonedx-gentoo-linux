@@ -1,0 +1,6139 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.7",
+  "serialNumber": "urn:uuid:a757bdcc-6082-47a2-8e10-8831eee98f7f",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-01-07T21:22:12.924556600+00:00",
+    "tools": [
+      {
+        "vendor": "cyclonedx-gentoo",
+        "name": "cyclonedx-gentoo",
+        "version": "0.8.15"
+      }
+    ]
+  },
+  "components": [
+    {
+      "type": "library",
+      "group": "app-admin",
+      "name": "eselect",
+      "version": "1.4.30",
+      "description": "Gentoo's multi-purpose configuration and management tool",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "CC-BY-SA-4.0"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-admin/eselect@1.4.30?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-admin",
+      "name": "eselect",
+      "version": "1.4.31",
+      "description": "Gentoo's multi-purpose configuration and management tool",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "CC-BY-SA-4.0"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-admin/eselect@1.4.31?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-admin",
+      "name": "eselect",
+      "version": "9999",
+      "description": "Gentoo's multi-purpose configuration and management tool",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "CC-BY-SA-4.0"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-admin/eselect@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-admin",
+      "name": "syslog-ng",
+      "version": "4.6.0",
+      "description": "syslog replacement with advanced filtering features",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-admin/syslog-ng@4.6.0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-admin",
+      "name": "syslog-ng",
+      "version": "4.7.1",
+      "description": "syslog replacement with advanced filtering features",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-admin/syslog-ng@4.7.1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-admin",
+      "name": "syslog-ng",
+      "version": "4.8.1",
+      "description": "syslog replacement with advanced filtering features",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-admin/syslog-ng@4.8.1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-admin",
+      "name": "syslog-ng",
+      "version": "4.8.1-r1",
+      "description": "syslog replacement with advanced filtering features",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-admin/syslog-ng@4.8.1-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-admin",
+      "name": "syslog-ng",
+      "version": "4.9.0",
+      "description": "syslog replacement with advanced filtering features",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-admin/syslog-ng@4.9.0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-admin",
+      "name": "syslog-ng",
+      "version": "4.10.2",
+      "description": "syslog replacement with advanced filtering features",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-admin/syslog-ng@4.10.2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-alternatives",
+      "name": "awk",
+      "version": "4",
+      "description": "/bin/awk and /usr/bin/awk symlinks",
+      "licenses": [
+        {
+          "license": {
+            "name": "CC0-1.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-alternatives/awk@4?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-alternatives",
+      "name": "bzip2",
+      "version": "1",
+      "description": "bzip2 symlink",
+      "licenses": [
+        {
+          "license": {
+            "name": "CC0-1.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-alternatives/bzip2@1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-alternatives",
+      "name": "gzip",
+      "version": "0",
+      "description": "gzip symlinks",
+      "licenses": [
+        {
+          "license": {
+            "name": "CC0-1.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-alternatives/gzip@0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-alternatives",
+      "name": "gzip",
+      "version": "1",
+      "description": "gzip symlinks",
+      "licenses": [
+        {
+          "license": {
+            "name": "CC0-1.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-alternatives/gzip@1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-alternatives",
+      "name": "sh",
+      "version": "0",
+      "description": "/bin/sh (POSIX shell) symlink",
+      "licenses": [
+        {
+          "license": {
+            "name": "CC0-1.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-alternatives/sh@0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-alternatives",
+      "name": "tar",
+      "version": "0",
+      "description": "Tar symlink",
+      "licenses": [
+        {
+          "license": {
+            "name": "CC0-1.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-alternatives/tar@0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-arch",
+      "name": "bzip2",
+      "version": "1.0.8-r5",
+      "description": "A high-quality data compressor used extensively by Gentoo Linux",
+      "licenses": [
+        {
+          "license": {
+            "name": "BZIP2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-arch/bzip2@1.0.8-r5?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-arch",
+      "name": "bzip2",
+      "version": "9999",
+      "description": "A high-quality data compressor used extensively by Gentoo Linux",
+      "licenses": [
+        {
+          "license": {
+            "name": "BZIP2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-arch/bzip2@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-arch",
+      "name": "gzip",
+      "version": "1.13-r1",
+      "description": "Standard GNU compressor",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-arch/gzip@1.13-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-arch",
+      "name": "gzip",
+      "version": "1.14",
+      "description": "Standard GNU compressor",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-arch/gzip@1.14?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-arch",
+      "name": "tar",
+      "version": "1.35",
+      "description": "Use this to make tarballs :)",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-arch/tar@1.35?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-arch",
+      "name": "xz-utils",
+      "version": "5.6.4-r2",
+      "description": "Utils for managing LZMA compressed files",
+      "licenses": [
+        {
+          "license": {
+            "name": "0BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "doc?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "CC-BY-SA-4.0"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-arch/xz-utils@5.6.4-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-arch",
+      "name": "xz-utils",
+      "version": "5.8.1-r1",
+      "description": "Utils for managing LZMA compressed files",
+      "licenses": [
+        {
+          "license": {
+            "name": "0BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "doc?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "CC-BY-SA-4.0"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-arch/xz-utils@5.8.1-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-arch",
+      "name": "xz-utils",
+      "version": "5.8.2",
+      "description": "Utils for managing LZMA compressed files",
+      "licenses": [
+        {
+          "license": {
+            "name": "0BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "doc?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "CC-BY-SA-4.0"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-arch/xz-utils@5.8.2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-arch",
+      "name": "xz-utils",
+      "version": "9999",
+      "description": "Utils for managing LZMA compressed files",
+      "licenses": [
+        {
+          "license": {
+            "name": "0BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "doc?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "CC-BY-SA-4.0"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-arch/xz-utils@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-editors",
+      "name": "vim",
+      "version": "9.1.0794",
+      "description": "Vim, an improved vi-style text editor",
+      "licenses": [
+        {
+          "license": {
+            "name": "vim"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-editors/vim@9.1.0794?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-editors",
+      "name": "vim",
+      "version": "9.1.1436",
+      "description": "Vim, an improved vi-style text editor",
+      "licenses": [
+        {
+          "license": {
+            "name": "vim"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-editors/vim@9.1.1436?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-editors",
+      "name": "vim",
+      "version": "9.1.1436-r1",
+      "description": "Vim, an improved vi-style text editor",
+      "licenses": [
+        {
+          "license": {
+            "name": "vim"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-editors/vim@9.1.1436-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-editors",
+      "name": "vim",
+      "version": "9.1.1500",
+      "description": "Vim, an improved vi-style text editor",
+      "licenses": [
+        {
+          "license": {
+            "name": "vim"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-editors/vim@9.1.1500?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-editors",
+      "name": "vim",
+      "version": "9.1.1652",
+      "description": "Vim, an improved vi-style text editor",
+      "licenses": [
+        {
+          "license": {
+            "name": "vim"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-editors/vim@9.1.1652?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-editors",
+      "name": "vim",
+      "version": "9.1.1652-r1",
+      "description": "Vim, an improved vi-style text editor",
+      "licenses": [
+        {
+          "license": {
+            "name": "vim"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-editors/vim@9.1.1652-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-editors",
+      "name": "vim",
+      "version": "9.1.1652-r2",
+      "description": "Vim, an improved vi-style text editor",
+      "licenses": [
+        {
+          "license": {
+            "name": "vim"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-editors/vim@9.1.1652-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-editors",
+      "name": "vim",
+      "version": "9999",
+      "description": "Vim, an improved vi-style text editor",
+      "licenses": [
+        {
+          "license": {
+            "name": "vim"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-editors/vim@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-portage",
+      "name": "eix",
+      "version": "0.36.9",
+      "description": "Search and query ebuilds",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-portage/eix@0.36.9?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-shells",
+      "name": "bash",
+      "version": "5.2_p37-r5",
+      "description": "The standard GNU Bourne again shell",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-shells/bash@5.2_p37-r5?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-shells",
+      "name": "bash",
+      "version": "5.3_p3-r3",
+      "description": "The standard GNU Bourne again shell",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-shells/bash@5.3_p3-r3?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-shells",
+      "name": "bash",
+      "version": "5.3_p8",
+      "description": "The standard GNU Bourne again shell",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-shells/bash@5.3_p8?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-shells",
+      "name": "bash",
+      "version": "5.3_p9",
+      "description": "The standard GNU Bourne again shell",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-shells/bash@5.3_p9?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-shells",
+      "name": "bash",
+      "version": "5.4_alpha_pre20251027",
+      "description": "The standard GNU Bourne again shell",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-shells/bash@5.4_alpha_pre20251027?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-shells",
+      "name": "bash",
+      "version": "5.4_alpha_pre20251119",
+      "description": "The standard GNU Bourne again shell",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-shells/bash@5.4_alpha_pre20251119?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-shells",
+      "name": "bash",
+      "version": "5.4_alpha_pre20251124",
+      "description": "The standard GNU Bourne again shell",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-shells/bash@5.4_alpha_pre20251124?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-shells",
+      "name": "bash",
+      "version": "5.4_alpha_pre20251202",
+      "description": "The standard GNU Bourne again shell",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-shells/bash@5.4_alpha_pre20251202?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "app-shells",
+      "name": "bash",
+      "version": "9999",
+      "description": "The standard GNU Bourne again shell",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/app-shells/bash@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-build",
+      "name": "make",
+      "version": "4.4.1-r100",
+      "description": "Standard tool to compile source trees",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-build/make@4.4.1-r100?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-build",
+      "name": "make",
+      "version": "4.4.1-r101",
+      "description": "Standard tool to compile source trees",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-build/make@4.4.1-r101?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-build",
+      "name": "make",
+      "version": "4.4.1-r102",
+      "description": "Standard tool to compile source trees",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-build/make@4.4.1-r102?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-build",
+      "name": "make",
+      "version": "9999",
+      "description": "Standard tool to compile source trees",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-build/make@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-libs",
+      "name": "openssl",
+      "version": "1.0.2u-r1",
+      "description": "Robust, full-featured Open Source Toolkit for the Transport Layer Security (TLS)",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-libs/openssl@1.0.2u-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-libs",
+      "name": "openssl",
+      "version": "1.1.1w",
+      "description": "Robust, full-featured Open Source Toolkit for the Transport Layer Security (TLS)",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-libs/openssl@1.1.1w?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-libs",
+      "name": "openssl",
+      "version": "3.0.18",
+      "description": "Robust, full-featured Open Source Toolkit for the Transport Layer Security (TLS)",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-libs/openssl@3.0.18?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-libs",
+      "name": "openssl",
+      "version": "3.0.9999",
+      "description": "Robust, full-featured Open Source Toolkit for the Transport Layer Security (TLS)",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-libs/openssl@3.0.9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-libs",
+      "name": "openssl",
+      "version": "3.2.6",
+      "description": "Robust, full-featured Open Source Toolkit for the Transport Layer Security (TLS)",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-libs/openssl@3.2.6?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-libs",
+      "name": "openssl",
+      "version": "3.2.9999",
+      "description": "Robust, full-featured Open Source Toolkit for the Transport Layer Security (TLS)",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-libs/openssl@3.2.9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-libs",
+      "name": "openssl",
+      "version": "3.3.5",
+      "description": "Robust, full-featured Open Source Toolkit for the Transport Layer Security (TLS)",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-libs/openssl@3.3.5?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-libs",
+      "name": "openssl",
+      "version": "3.3.9999",
+      "description": "Robust, full-featured Open Source Toolkit for the Transport Layer Security (TLS)",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-libs/openssl@3.3.9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-libs",
+      "name": "openssl",
+      "version": "3.4.3",
+      "description": "Robust, full-featured Open Source Toolkit for the Transport Layer Security (TLS)",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-libs/openssl@3.4.3?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-libs",
+      "name": "openssl",
+      "version": "3.4.9999",
+      "description": "Robust, full-featured Open Source Toolkit for the Transport Layer Security (TLS)",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-libs/openssl@3.4.9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-libs",
+      "name": "openssl",
+      "version": "3.5.4",
+      "description": "Robust, full-featured Open Source Toolkit for the Transport Layer Security (TLS)",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-libs/openssl@3.5.4?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-libs",
+      "name": "openssl",
+      "version": "3.5.9999",
+      "description": "Robust, full-featured Open Source Toolkit for the Transport Layer Security (TLS)",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-libs/openssl@3.5.9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-libs",
+      "name": "openssl",
+      "version": "3.6.0",
+      "description": "Robust, full-featured Open Source Toolkit for the Transport Layer Security (TLS)",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-libs/openssl@3.6.0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "dev-libs",
+      "name": "openssl",
+      "version": "3.6.9999",
+      "description": "Robust, full-featured Open Source Toolkit for the Transport Layer Security (TLS)",
+      "licenses": [
+        {
+          "license": {
+            "name": "Apache-2.0"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/dev-libs/openssl@3.6.9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-mail",
+      "name": "mailbase",
+      "version": "1.8.1",
+      "description": "MTA layout package",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-mail/mailbase@1.8.1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "iputils",
+      "version": "20211215",
+      "description": "Network monitoring tools including ping and ping6",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "arping?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "clockdiff?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "tracepath?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/iputils@20211215?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "iputils",
+      "version": "20221126-r1",
+      "description": "Network monitoring tools including ping and ping6",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "arping?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "clockdiff?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "tracepath?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/iputils@20221126-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "iputils",
+      "version": "20240117",
+      "description": "Network monitoring tools including ping and ping6",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "arping?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "clockdiff?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "tracepath?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/iputils@20240117?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "iputils",
+      "version": "20240905",
+      "description": "Network monitoring tools including ping and ping6",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "arping?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "clockdiff?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "tracepath?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/iputils@20240905?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "iputils",
+      "version": "20250605",
+      "description": "Network monitoring tools including ping and ping6",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "arping?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "clockdiff?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "tracepath?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/iputils@20250605?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "iputils",
+      "version": "20250605-r1",
+      "description": "Network monitoring tools including ping and ping6",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "arping?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "clockdiff?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "tracepath?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/iputils@20250605-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "iputils",
+      "version": "99999999",
+      "description": "Network monitoring tools including ping and ping6",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "arping?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "clockdiff?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "tracepath?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/iputils@99999999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "openssh",
+      "version": "9.8_p1-r4",
+      "description": "Port of OpenBSD's free SSH release",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/openssh@9.8_p1-r4?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "openssh",
+      "version": "9.9_p2-r4",
+      "description": "Port of OpenBSD's free SSH release",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/openssh@9.9_p2-r4?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "openssh",
+      "version": "10.0_p1",
+      "description": "Port of OpenBSD's free SSH release",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/openssh@10.0_p1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "openssh",
+      "version": "10.0_p2",
+      "description": "Port of OpenBSD's free SSH release",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/openssh@10.0_p2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "openssh",
+      "version": "10.1_p1-r1",
+      "description": "Port of OpenBSD's free SSH release",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/openssh@10.1_p1-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "openssh",
+      "version": "10.2_p1",
+      "description": "Port of OpenBSD's free SSH release",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/openssh@10.2_p1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "rsync",
+      "version": "3.3.0-r2",
+      "description": "File transfer program to keep remote files into sync",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/rsync@3.3.0-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "rsync",
+      "version": "3.4.1",
+      "description": "File transfer program to keep remote files into sync",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/rsync@3.4.1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "rsync",
+      "version": "3.4.1-r1",
+      "description": "File transfer program to keep remote files into sync",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/rsync@3.4.1-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "rsync",
+      "version": "9999",
+      "description": "File transfer program to keep remote files into sync",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/rsync@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "net-misc",
+      "name": "wget",
+      "version": "1.25.0-r1",
+      "description": "Network utility to retrieve files from the WWW",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/net-misc/wget@1.25.0-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sec-keys",
+      "name": "openpgp-keys-gentoo-release",
+      "version": "20250806",
+      "description": "OpenPGP keys used for Gentoo releases (snapshots, stages)",
+      "licenses": [
+        {
+          "license": {
+            "name": "public-domain"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sec-keys/openpgp-keys-gentoo-release@20250806?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "baselayout",
+      "version": "2.17",
+      "description": "Filesystem baselayout and init scripts",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/baselayout@2.17?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "baselayout",
+      "version": "2.18",
+      "description": "Filesystem baselayout and init scripts",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/baselayout@2.18?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "baselayout",
+      "version": "2.18-r1",
+      "description": "Filesystem baselayout and init scripts",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/baselayout@2.18-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "baselayout",
+      "version": "9999",
+      "description": "Filesystem baselayout and init scripts",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/baselayout@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "coreutils",
+      "version": "9.7",
+      "description": "Standard GNU utilities (chmod, cp, dd, ls, sort, tr, head, wc, who,...)",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/coreutils@9.7?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "coreutils",
+      "version": "9.8-r1",
+      "description": "Standard GNU utilities (chmod, cp, dd, ls, sort, tr, head, wc, who,...)",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/coreutils@9.8-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "coreutils",
+      "version": "9.9",
+      "description": "Standard GNU utilities (chmod, cp, dd, ls, sort, tr, head, wc, who,...)",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/coreutils@9.9?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "coreutils",
+      "version": "9.9-r1",
+      "description": "Standard GNU utilities (chmod, cp, dd, ls, sort, tr, head, wc, who,...)",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/coreutils@9.9-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "coreutils",
+      "version": "9.9-r11",
+      "description": "Standard GNU utilities (chmod, cp, dd, ls, sort, tr, head, wc, who,...)",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/coreutils@9.9-r11?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "coreutils",
+      "version": "9999",
+      "description": "Standard GNU utilities (chmod, cp, dd, ls, sort, tr, head, wc, who,...)",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/coreutils@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "diffutils",
+      "version": "3.10",
+      "description": "Tools to make diffs and compare files",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/diffutils@3.10?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "diffutils",
+      "version": "3.11-r2",
+      "description": "Tools to make diffs and compare files",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/diffutils@3.11-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "diffutils",
+      "version": "3.12",
+      "description": "Tools to make diffs and compare files",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/diffutils@3.12?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "file",
+      "version": "5.45-r4",
+      "description": "Identify a file's format by scanning binary data for patterns",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/file@5.45-r4?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "file",
+      "version": "5.46-r2",
+      "description": "Identify a file's format by scanning binary data for patterns",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/file@5.46-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "file",
+      "version": "5.46-r3",
+      "description": "Identify a file's format by scanning binary data for patterns",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/file@5.46-r3?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "file",
+      "version": "9999",
+      "description": "Identify a file's format by scanning binary data for patterns",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/file@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "findutils",
+      "version": "4.10.0",
+      "description": "GNU utilities for finding files",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/findutils@4.10.0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "gawk",
+      "version": "5.3.2",
+      "description": "GNU awk pattern-matching language",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "pma?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "AGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/gawk@5.3.2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "grep",
+      "version": "3.11-r1",
+      "description": "GNU regular expression matcher",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/grep@3.11-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "grep",
+      "version": "3.12",
+      "description": "GNU regular expression matcher",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/grep@3.12?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "iproute2",
+      "version": "6.16.0",
+      "description": "kernel routing and traffic control utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/iproute2@6.16.0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "iproute2",
+      "version": "6.17.0",
+      "description": "kernel routing and traffic control utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/iproute2@6.17.0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "iproute2",
+      "version": "6.18.0",
+      "description": "kernel routing and traffic control utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/iproute2@6.18.0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "iproute2",
+      "version": "9999",
+      "description": "kernel routing and traffic control utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/iproute2@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "kbd",
+      "version": "2.7.1",
+      "description": "Keyboard and console utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/kbd@2.7.1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "kbd",
+      "version": "2.8.0",
+      "description": "Keyboard and console utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/kbd@2.8.0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "kbd",
+      "version": "2.9.0",
+      "description": "Keyboard and console utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/kbd@2.9.0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "kbd",
+      "version": "2.9.0-r1",
+      "description": "Keyboard and console utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/kbd@2.9.0-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "kbd",
+      "version": "9999",
+      "description": "Keyboard and console utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/kbd@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "kmod",
+      "version": "33",
+      "description": "Library and tools for managing linux kernel modules",
+      "licenses": [
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        },
+        {
+          "license": {
+            "name": "tools?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/kmod@33?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "kmod",
+      "version": "34.2",
+      "description": "Library and tools for managing linux kernel modules",
+      "licenses": [
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        },
+        {
+          "license": {
+            "name": "tools?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/kmod@34.2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "kmod",
+      "version": "9999",
+      "description": "Library and tools for managing linux kernel modules",
+      "licenses": [
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        },
+        {
+          "license": {
+            "name": "tools?"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/kmod@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "less",
+      "version": "643-r2",
+      "description": "Excellent text file viewer",
+      "licenses": [
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD-2"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/less@643-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "less",
+      "version": "668",
+      "description": "Excellent text file viewer",
+      "licenses": [
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD-2"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/less@668?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "less",
+      "version": "679",
+      "description": "Excellent text file viewer",
+      "licenses": [
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD-2"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/less@679?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "less",
+      "version": "685",
+      "description": "Excellent text file viewer",
+      "licenses": [
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD-2"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/less@685?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "less",
+      "version": "9999",
+      "description": "Excellent text file viewer",
+      "licenses": [
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD-2"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/less@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "man-pages",
+      "version": "6.05.01",
+      "description": "A somewhat comprehensive collection of Linux man pages",
+      "licenses": [
+        {
+          "license": {
+            "name": "man-pages"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/man-pages@6.05.01?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "man-pages",
+      "version": "6.06",
+      "description": "A somewhat comprehensive collection of Linux man pages",
+      "licenses": [
+        {
+          "license": {
+            "name": "man-pages"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/man-pages@6.06?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "man-pages",
+      "version": "6.10",
+      "description": "A somewhat comprehensive collection of Linux man pages",
+      "licenses": [
+        {
+          "license": {
+            "name": "man-pages"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/man-pages@6.10?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "man-pages",
+      "version": "9999",
+      "description": "A somewhat comprehensive collection of Linux man pages",
+      "licenses": [
+        {
+          "license": {
+            "name": "man-pages"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/man-pages@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "net-tools",
+      "version": "2.10",
+      "description": "Standard Linux networking tools",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/net-tools@2.10?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "net-tools",
+      "version": "9999",
+      "description": "Standard Linux networking tools",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/net-tools@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "sed",
+      "version": "4.9-r1",
+      "description": "Super-useful stream editor",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/sed@4.9-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "shadow",
+      "version": "4.14.8",
+      "description": "Utilities to deal with user accounts",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/shadow@4.14.8?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "shadow",
+      "version": "4.14.8-r1",
+      "description": "Utilities to deal with user accounts",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/shadow@4.14.8-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "shadow",
+      "version": "4.14.8-r2",
+      "description": "Utilities to deal with user accounts",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/shadow@4.14.8-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "shadow",
+      "version": "4.19.0_rc1",
+      "description": "Utilities to deal with user accounts",
+      "licenses": [
+        {
+          "license": {
+            "name": "BSD"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/shadow@4.19.0_rc1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "util-linux",
+      "version": "2.40.4",
+      "description": "Various useful Linux utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD-4"
+          }
+        },
+        {
+          "license": {
+            "name": "MIT"
+          }
+        },
+        {
+          "license": {
+            "name": "public-domain"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/util-linux@2.40.4?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "util-linux",
+      "version": "2.41.1-r1",
+      "description": "Various useful Linux utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD-4"
+          }
+        },
+        {
+          "license": {
+            "name": "MIT"
+          }
+        },
+        {
+          "license": {
+            "name": "public-domain"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/util-linux@2.41.1-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "util-linux",
+      "version": "2.41.2",
+      "description": "Various useful Linux utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD-4"
+          }
+        },
+        {
+          "license": {
+            "name": "MIT"
+          }
+        },
+        {
+          "license": {
+            "name": "public-domain"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/util-linux@2.41.2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "util-linux",
+      "version": "2.41.3",
+      "description": "Various useful Linux utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD-4"
+          }
+        },
+        {
+          "license": {
+            "name": "MIT"
+          }
+        },
+        {
+          "license": {
+            "name": "public-domain"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/util-linux@2.41.3?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "util-linux",
+      "version": "9999",
+      "description": "Various useful Linux utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD-4"
+          }
+        },
+        {
+          "license": {
+            "name": "MIT"
+          }
+        },
+        {
+          "license": {
+            "name": "public-domain"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/util-linux@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "which",
+      "version": "2.21",
+      "description": "Prints out location of specified executables that are in your path",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/which@2.21?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-apps",
+      "name": "which",
+      "version": "2.23",
+      "description": "Prints out location of specified executables that are in your path",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-apps/which@2.23?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.32-r2",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.32-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.33.1-r1",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.33.1-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.34-r2",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.34-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.35.2",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.35.2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.36.1-r2",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.36.1-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.37_p1-r2",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.37_p1-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.38-r2",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.38-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.39-r5",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.39-r5?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.40-r9",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.40-r9?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.41-r5",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.41-r5?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.42-r2",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.42-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.43-r2",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.43-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.44-r4",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.44-r4?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.45",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.45?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.45-r1",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.45-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.45.1",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.45.1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "2.45.9999",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@2.45.9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "binutils",
+      "version": "9999",
+      "description": "Tools necessary to build programs",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/binutils@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "8.5.0-r2",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@8.5.0-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "9.5.0",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@9.5.0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "10.5.0",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@10.5.0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "11.5.0",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@11.5.0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "12.5.0",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@12.5.0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "13.2.0",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@13.2.0?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "13.4.1_p20250807",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@13.4.1_p20250807?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "13.4.1_p20251016",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@13.4.1_p20251016?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "13.4.1_p20251204",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@13.4.1_p20251204?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "13.4.1_p20251211",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@13.4.1_p20251211?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "13.4.1_p20251218",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@13.4.1_p20251218?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "13.4.1_p20251225",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@13.4.1_p20251225?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "13.4.1_p20260101",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@13.4.1_p20260101?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "13.5.9999",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@13.5.9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "14.3.1_p20250801",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@14.3.1_p20250801?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "14.3.1_p20251017",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@14.3.1_p20251017?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "14.3.1_p20251205",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@14.3.1_p20251205?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "14.3.1_p20251212",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@14.3.1_p20251212?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "14.3.1_p20251219",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@14.3.1_p20251219?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "14.3.1_p20251226",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@14.3.1_p20251226?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "14.3.1_p20260102",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@14.3.1_p20260102?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "14.4.9999",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@14.4.9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "15.2.1_p20251108-r1",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@15.2.1_p20251108-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "15.2.1_p20251115",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@15.2.1_p20251115?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "15.2.1_p20251122",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@15.2.1_p20251122?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "15.2.1_p20251129",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@15.2.1_p20251129?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "15.2.1_p20251206",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@15.2.1_p20251206?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "15.2.1_p20251213",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@15.2.1_p20251213?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "15.2.1_p20251220",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@15.2.1_p20251220?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "15.2.1_p20251227",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@15.2.1_p20251227?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "15.2.1_p20260103",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@15.2.1_p20260103?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "15.3.9999",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@15.3.9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "16.0.0_p20251123",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@16.0.0_p20251123?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "16.0.0_p20251130",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@16.0.0_p20251130?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "16.0.0_p20251207",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@16.0.0_p20251207?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "16.0.0_p20251214",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@16.0.0_p20251214?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "16.0.0_p20251221",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@16.0.0_p20251221?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "16.0.0_p20251228",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@16.0.0_p20251228?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "16.0.0_p20260104",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@16.0.0_p20260104?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gcc",
+      "version": "16.0.9999",
+      "description": "The GNU Compiler Collection",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "||"
+          }
+        },
+        {
+          "license": {
+            "name": "("
+          }
+        },
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        },
+        {
+          "license": {
+            "name": "libgcc"
+          }
+        },
+        {
+          "license": {
+            "name": "libstdc++"
+          }
+        },
+        {
+          "license": {
+            "name": "gcc-runtime-library-exception-3.1"
+          }
+        },
+        {
+          "license": {
+            "name": ")"
+          }
+        },
+        {
+          "license": {
+            "name": "FDL-1.3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gcc@16.0.9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gnuconfig",
+      "version": "20240728",
+      "description": "Updated config.sub and config.guess file from GNU",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+-with-autoconf-exception"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gnuconfig@20240728?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gnuconfig",
+      "version": "20250710",
+      "description": "Updated config.sub and config.guess file from GNU",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+-with-autoconf-exception"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gnuconfig@20250710?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "gnuconfig",
+      "version": "99999999",
+      "description": "Updated config.sub and config.guess file from GNU",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+-with-autoconf-exception"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/gnuconfig@99999999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "patch",
+      "version": "2.7.6-r6",
+      "description": "Utility to apply diffs to files",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/patch@2.7.6-r6?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "patch",
+      "version": "2.7.6-r8",
+      "description": "Utility to apply diffs to files",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/patch@2.7.6-r8?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "patch",
+      "version": "2.8-r1",
+      "description": "Utility to apply diffs to files",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/patch@2.8-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-devel",
+      "name": "patch",
+      "version": "9999",
+      "description": "Utility to apply diffs to files",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-3+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-devel/patch@9999?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-fs",
+      "name": "e2fsprogs",
+      "version": "1.47.2-r3",
+      "description": "Standard EXT2/EXT3/EXT4 filesystem utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-fs/e2fsprogs@1.47.2-r3?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-fs",
+      "name": "e2fsprogs",
+      "version": "1.47.2-r10",
+      "description": "Standard EXT2/EXT3/EXT4 filesystem utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-fs/e2fsprogs@1.47.2-r10?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-fs",
+      "name": "e2fsprogs",
+      "version": "1.47.3",
+      "description": "Standard EXT2/EXT3/EXT4 filesystem utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-fs/e2fsprogs@1.47.3?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-fs",
+      "name": "e2fsprogs",
+      "version": "1.47.3-r1",
+      "description": "Standard EXT2/EXT3/EXT4 filesystem utilities",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2"
+          }
+        },
+        {
+          "license": {
+            "name": "BSD"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-fs/e2fsprogs@1.47.3-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-process",
+      "name": "procps",
+      "version": "4.0.4-r2",
+      "description": "Standard informational utilities and process-handling tools",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-process/procps@4.0.4-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-process",
+      "name": "procps",
+      "version": "4.0.5-r2",
+      "description": "Standard informational utilities and process-handling tools",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-process/procps@4.0.5-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-process",
+      "name": "procps",
+      "version": "4.0.5-r3",
+      "description": "Standard informational utilities and process-handling tools",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2+"
+          }
+        },
+        {
+          "license": {
+            "name": "LGPL-2.1+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-process/procps@4.0.5-r3?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-process",
+      "name": "psmisc",
+      "version": "23.6",
+      "description": "A set of tools that use the proc filesystem",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-process/psmisc@23.6?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "sys-process",
+      "name": "psmisc",
+      "version": "23.7",
+      "description": "A set of tools that use the proc filesystem",
+      "licenses": [
+        {
+          "license": {
+            "name": "GPL-2+"
+          }
+        }
+      ],
+      "purl": "pkg:gentoo/sys-process/psmisc@23.7?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "virtual",
+      "name": "dev-manager",
+      "version": "0-r2",
+      "description": "Virtual for the device filesystem manager",
+      "licenses": [],
+      "purl": "pkg:gentoo/virtual/dev-manager@0-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "virtual",
+      "name": "editor",
+      "version": "0-r7",
+      "description": "Virtual for editor",
+      "licenses": [],
+      "purl": "pkg:gentoo/virtual/editor@0-r7?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "virtual",
+      "name": "libc",
+      "version": "1-r1",
+      "description": "Virtual for the C library",
+      "licenses": [],
+      "purl": "pkg:gentoo/virtual/libc@1-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "virtual",
+      "name": "man",
+      "version": "0-r4",
+      "description": "Virtual for man",
+      "licenses": [],
+      "purl": "pkg:gentoo/virtual/man@0-r4?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "virtual",
+      "name": "os-headers",
+      "version": "0-r2",
+      "description": "Virtual for operating system headers",
+      "licenses": [],
+      "purl": "pkg:gentoo/virtual/os-headers@0-r2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "virtual",
+      "name": "package-manager",
+      "version": "2",
+      "description": "Virtual for the package manager",
+      "licenses": [],
+      "purl": "pkg:gentoo/virtual/package-manager@2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "virtual",
+      "name": "pager",
+      "version": "0-r1",
+      "description": "Virtual for command-line pagers",
+      "licenses": [],
+      "purl": "pkg:gentoo/virtual/pager@0-r1?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "virtual",
+      "name": "service-manager",
+      "version": "2",
+      "description": "Virtual for various service managers",
+      "licenses": [],
+      "purl": "pkg:gentoo/virtual/service-manager@2?repository=gentoo"
+    },
+    {
+      "type": "library",
+      "group": "virtual",
+      "name": "ssh",
+      "version": "0-r2",
+      "description": "Virtual for SSH client and server",
+      "licenses": [],
+      "purl": "pkg:gentoo/virtual/ssh@0-r2?repository=gentoo"
+    }
+  ]
+}

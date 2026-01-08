@@ -86,10 +86,15 @@ impl Bom {
     /// Creates a new `Bom` with default metadata, including a unique serial number
     /// and the current timestamp.
     pub fn new() -> Self {
+        Self::with_tool_version(env!("CARGO_PKG_VERSION").to_string())
+    }
+
+    /// Creates a new `Bom` with a specific tool version.
+    pub fn with_tool_version(tool_version: String) -> Self {
         let now: DateTime<Utc> = Utc::now();
         Bom {
             bom_format: "CycloneDX".to_string(),
-            spec_version: "1.5".to_string(),
+            spec_version: "1.7".to_string(),
             serial_number: format!("urn:uuid:{}", Uuid::new_v4()),
             version: 1,
             metadata: Metadata {
@@ -97,7 +102,7 @@ impl Bom {
                 tools: vec![Tool {
                     vendor: "cyclonedx-gentoo".to_string(),
                     name: "cyclonedx-gentoo".to_string(),
-                    version: env!("CARGO_PKG_VERSION").to_string(),
+                    version: tool_version,
                 }],
                 component: None,
             },
@@ -114,7 +119,7 @@ mod tests {
     fn test_bom_new() {
         let bom = Bom::new();
         assert_eq!(bom.bom_format, "CycloneDX");
-        assert_eq!(bom.spec_version, "1.5");
+        assert_eq!(bom.spec_version, "1.7");
         assert!(bom.serial_number.starts_with("urn:uuid:"));
         assert_eq!(bom.version, 1);
         assert_eq!(bom.metadata.tools.len(), 1);
@@ -141,7 +146,7 @@ mod tests {
 
         let json = serde_json::to_string(&bom).unwrap();
         assert!(json.contains("\"bomFormat\":\"CycloneDX\""));
-        assert!(json.contains("\"specVersion\":\"1.5\""));
+        assert!(json.contains("\"specVersion\":\"1.7\""));
         assert!(json.contains("\"type\":\"library\""));
         assert!(json.contains("\"name\":\"openssl\""));
         assert!(json.contains("\"name\":\"Apache-2.0\""));
