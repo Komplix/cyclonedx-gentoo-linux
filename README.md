@@ -3,18 +3,17 @@
 [![Build](https://github.com/Komplix/cyclonedx-gentoo-linux/actions/workflows/build.yml/badge.svg)](https://github.com/Komplix/cyclonedx-gentoo-linux/actions/workflows/build.yml)
 ![maintenance-status](https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg)
 
-Generates a Software Bill of Materials (SBOM) in CycloneDX format (JSON) for Gentoo Linux by parsing the Portage package database via `eix`.
+Generates a Software Bill of Materials (SBOM) in CycloneDX format (JSON) for Gentoo Linux by parsing the Portage package database.
 
 ## Description
 
-`cyclonedx-gentoo` is a command-line tool that scans your installed Gentoo packages and produces a CycloneDX SBOM. It uses the `eix` database for fast access to package information.
+`cyclonedx-gentoo` is a command-line tool that scans your installed Gentoo packages and produces a CycloneDX SBOM. 
 
-The output is a [CycloneDX](https://cyclonedx.org/) v1.5 JSON document sent to `stdout`.
+The output is a [CycloneDX](https://cyclonedx.org/) v1.7 JSON document sent to `stdout`.
 
 ## Prerequisites
 
 - Gentoo Linux
-- `app-portage/eix` installed and database updated (`eix-update`)
 - Rust toolchain (to build from source)
 
 ## Installation
@@ -25,7 +24,7 @@ cargo install --path .
 
 ## Usage
 
-By default, the tool looks for the eix database at `/var/cache/eix/portage.eix`.
+By default, the tool looks for the database at `/var/db/pkg`.
 
 ```bash
 cyclonedx-gentoo [OPTIONS]
@@ -36,7 +35,7 @@ cyclonedx-gentoo [OPTIONS]
 - `-g, --group <arg>`: (Optional) Group value to assign to the top-level component.
 - `-n, --name <arg>`: (Optional) Name value to assign to the top-level component.
 - `-v, --version <arg>`: (Optional) Version value to assign to the top-level component.
-- `-f, --file <arg>`: (Optional) Use a specific eix-file as input instead of the standard one.
+- `-d, --dir <arg>`: (Optional) Use a specific directory as input instead of the standard one.
 - `-m, --only-master`: (Optional) Only capture the master component (metadata). Will not include any installed packages in the components list.
 - `-h, --help`: Print out the command line options.
 
